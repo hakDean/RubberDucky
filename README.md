@@ -10,7 +10,7 @@
 
 Install and have your USB Rubber Ducky working in less than 5 minutes.
 
-1. Clone the repo to get a local copy of the files. `https://github.com/DeanDevel/hacktools/tree/main/RUBBER%20DUCKY/RaspPico`
+1. Clone the repo to get a local copy of the files. `https://github.com/hakDean/RubberDucky`
 
 2. Download UF2 [ORIGINAL CircuitPython for the Raspberry Pi Pico](https://circuitpython.org/board/raspberry_pi_pico/). or from my repo downloads folder [HERE]([https://github.com/hakDean/RubberDucky/tree/main/downloads/](https://github.com/hakDean/RubberDucky/tree/main/downloads/) *Use the 7.3.3.uf2 ...
 

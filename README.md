@@ -4,17 +4,7 @@
   <strong>Make a cheap but powerful USB Rubber Ducky with a Raspberry Pi Pico</strong>
 </div>
 
-<br />
-
-<div align="center">
-  <img alt="GitHub code size in bytes" src="https://img.shields.io/github/languages/code-size/dbisu/pico-ducky">
-  <img alt="GitHub license" src="https://img.shields.io/github/license/dbisu/pico-ducky">
-  <a href="https://github.com/dbisu/pico-ducky/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/dbisu/pico-ducky"></a>
-  <img alt="GitHub commit activity" src="https://img.shields.io/github/commit-activity/m/dbisu/pico-ducky">
-  <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/dbisu/pico-ducky">
-</div>
-
-<br />
+<br/>
 
 ## Install
 
@@ -22,7 +12,7 @@ Install and have your USB Rubber Ducky working in less than 5 minutes.
 
 1. Clone the repo to get a local copy of the files. `https://github.com/DeanDevel/hacktools/tree/main/RUBBER%20DUCKY/RaspPico`
 
-2. Download UF2 [ORIGINAL CircuitPython for the Raspberry Pi Pico](https://circuitpython.org/board/raspberry_pi_pico/). or from this repo downloads folder [HERE](https://github.com/DeanDevel/hacktools/tree/main/RUBBER%20DUCKY/RaspPico/downloads/adafruit-circuitpython-raspberry_pi_pico-en_GB-7.3.3.uf2) *Use the 7.3.3.uf2 ...
+2. Download UF2 [ORIGINAL CircuitPython for the Raspberry Pi Pico](https://circuitpython.org/board/raspberry_pi_pico/). or from this repo downloads folder [HERE]([https://github.com/DeanDevel/hacktools/tree/main/RUBBER%20DUCKY/RaspPico/downloads/](https://github.com/hakDean/RubberDucky/tree/main/downloads)adafruit-circuitpython-raspberry_pi_pico-en_GB-7.3.3.uf2) *Use the 7.3.3.uf2 ...
 
 3. Plug the device into a USB port while holding the boot button. It will show up as a removable media device named `RPI-RP2`.
 

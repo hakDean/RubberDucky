@@ -35,6 +35,10 @@ Install and have your USB Rubber Ducky working in less than 5 minutes.
 
 12. Be careful, if your device isn't in [setup mode](#setup-mode), the device will reboot and after half a second, the script will run.
 
+### Quick Setup 
+
+After step 4 above and the device has rebooted copy all files in the quicksetup folder for multi ducky quick setups.
+
 ### Setup mode
 
 To edit the payload, enter setup mode by connecting the pin 1 (`GP0`) to pin 3 (`GND`), this will stop the pico-ducky from injecting the payload in your own machine.

@@ -12,7 +12,7 @@ Install and have your USB Rubber Ducky working in less than 5 minutes.
 
 1. Clone the repo to get a local copy of the files. `https://github.com/hakDean/RubberDucky`
 
-2. Download UF2 [ORIGINAL CircuitPython for the Raspberry Pi Pico](https://circuitpython.org/board/raspberry_pi_pico/). or from my repo downloads folder [HERE]([https://github.com/hakDean/RubberDucky/tree/main/downloads/](https://github.com/hakDean/RubberDucky/tree/main/downloads/) *Use the 7.3.3.uf2 ...
+2. Download UF2 [ORIGINAL CircuitPython for the Raspberry Pi Pico](https://circuitpython.org/board/raspberry_pi_pico/). or from my repo downloads folder [HERE](https://github.com/hakDean/RubberDucky/tree/main/downloads/) *Use the 7.3.3.uf2 ...
 
 3. Plug the device into a USB port while holding the boot button. It will show up as a removable media device named `RPI-RP2`.
 

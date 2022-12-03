@@ -148,6 +148,8 @@ You can find the tool [here](https://github.com/raspberrypi5621/pyducky)
 
 [Ducky Script](https://github.com/hak5darren/USB-Rubber-Ducky/wiki/Duckyscript)
 
+[My Ducky Script](https://github.com/hakDean/RubberDucky/tree/main/DUCKYSCRIPTS)
+
 ### Video tutorials
 
 [pico-ducky tutorial by **NetworkChuck**](https://www.youtube.com/watch?v=e_f9p-_JWZw)

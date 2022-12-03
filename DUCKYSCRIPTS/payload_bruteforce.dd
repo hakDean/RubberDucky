@@ -1,0 +1,14 @@
+REM This will try to brute force the Active Directory or login screen of computer
+DELAY 1000
+WINDOWS d
+DELAY 1000
+GUI r
+DELAY 500
+REM takes the users computer to a fake windows93 site
+STRING http://www.windows93.net/
+ENTER
+DELAY 500
+REM f11 is triggered so it looks like a real desktop  
+F11
+ENTER
+

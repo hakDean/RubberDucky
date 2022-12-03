@@ -18,7 +18,7 @@ Install and have your USB Rubber Ducky working in less than 5 minutes.
 
 4. Copy the downloaded `.uf2` file to the root of the Pico (`RPI-RP2`). The device will reboot and after a second or so, it will reconnect as `CIRCUITPY`.
 
-5. Download `adafruit-circuitpython-bundle-7.x-mpy-YYYYMMDD.zip` [here](https://github.com/adafruit/Adafruit_CircuitPython_Bundle/releases/latest) or from my repo downloads folder [here](https://github.com/hakDean/RubberDucky/tree/main/downloads/adafruit-circuitpython-bundle-7.x-mpy-20221014.zip) and extract it outside the device.
+5. Download `adafruit-circuitpython-bundle-7.x-mpy-YYYYMMDD.zip` [here](https://github.com/adafruit/Adafruit_CircuitPython_Bundle/releases/latest) or from my repo downloads folder [here](https://github.com/hakDean/RubberDucky/tree/main/downloads/) and extract it outside the device.
 
 6. Navigate to `lib` in the recently extracted folder and copy `adafruit_hid` to the `lib` folder on your Raspberry Pi Pico.
 

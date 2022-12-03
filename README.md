@@ -12,13 +12,13 @@ Install and have your USB Rubber Ducky working in less than 5 minutes.
 
 1. Clone the repo to get a local copy of the files. `https://github.com/DeanDevel/hacktools/tree/main/RUBBER%20DUCKY/RaspPico`
 
-2. Download UF2 [ORIGINAL CircuitPython for the Raspberry Pi Pico](https://circuitpython.org/board/raspberry_pi_pico/). or from this repo downloads folder [HERE]([https://github.com/DeanDevel/hacktools/tree/main/RUBBER%20DUCKY/RaspPico/downloads/](https://github.com/hakDean/RubberDucky/tree/main/downloads)adafruit-circuitpython-raspberry_pi_pico-en_GB-7.3.3.uf2) *Use the 7.3.3.uf2 ...
+2. Download UF2 [ORIGINAL CircuitPython for the Raspberry Pi Pico](https://circuitpython.org/board/raspberry_pi_pico/). or from my repo downloads folder [HERE]([https://github.com/hakDean/RubberDucky/tree/main/downloads/](https://github.com/hakDean/RubberDucky/tree/main/downloads/) *Use the 7.3.3.uf2 ...
 
 3. Plug the device into a USB port while holding the boot button. It will show up as a removable media device named `RPI-RP2`.
 
 4. Copy the downloaded `.uf2` file to the root of the Pico (`RPI-RP2`). The device will reboot and after a second or so, it will reconnect as `CIRCUITPY`.
 
-5. Download `adafruit-circuitpython-bundle-7.x-mpy-YYYYMMDD.zip` [here](https://github.com/adafruit/Adafruit_CircuitPython_Bundle/releases/latest) or from this repo downloads folder [here](https://github.com/DeanDevel/hacktools/blob/main/RUBBER%20DUCKY/RaspPico/downloads/adafruit-circuitpython-bundle-7.x-mpy-20221014.zip) and extract it outside the device.
+5. Download `adafruit-circuitpython-bundle-7.x-mpy-YYYYMMDD.zip` [here](https://github.com/adafruit/Adafruit_CircuitPython_Bundle/releases/latest) or from my repo downloads folder [here](https://github.com/hakDean/RubberDucky/tree/main/downloads/adafruit-circuitpython-bundle-7.x-mpy-20221014.zip) and extract it outside the device.
 
 6. Navigate to `lib` in the recently extracted folder and copy `adafruit_hid` to the `lib` folder on your Raspberry Pi Pico.
 
@@ -31,7 +31,7 @@ Install and have your USB Rubber Ducky working in less than 5 minutes.
 10. Copy `duckyinpython.py` as `code.py` in the root of the Raspberry Pi Pico, overwriting the previous file.  
      Linux: `cp duckyinpython.py </path/to/pico/code.py`
 
-11. Find a script [here](https://github.com/hak5darren/USB-Rubber-Ducky/wiki/Payloads) or [create your own one using Ducky Script](https://github.com/DeanDevel/hacktools/tree/main/RUBBER%20DUCKY/DUCKYSCRIPTS) and save it as `payload.dd` in the Pico.
+11. Find a script [here](https://github.com/hak5darren/USB-Rubber-Ducky/wiki/Payloads) or [create your own one using Ducky Script](https://github.com/hakDean/RubberDucky/tree/main/DUCKYSCRIPTS) and save it as `payload.dd` in the Pico.
 
 12. Be careful, if your device isn't in [setup mode](#setup-mode), the device will reboot and after half a second, the script will run.
 

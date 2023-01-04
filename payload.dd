@@ -1,3 +1,10 @@
+ATTACKMODE HID VID_046D PID_C31C MAN_QUACK PROD_KEYBOARD SERIAL_1337
+REM Emulated a Keyboard with the following values:
+REM  - Vendor ID: 046D
+REM  - Product ID: C31C
+REM  - Manufacturer: QUACK
+REM  - Product: KEYBOARD
+REM  - Serial: 1337
 REM The next four lines open Notepad in Windows and type "Hello World!"
 GUI r
 STRING notepad
